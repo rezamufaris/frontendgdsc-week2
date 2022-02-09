@@ -15,7 +15,7 @@ body {
 .jumbotron {
   text-align: center;
   padding: 100px 0;
-  background-color: #00c8eb;
+  background-image: linear-gradient(90deg, #000000, #138f90);
   color: white;
 }
 
@@ -32,7 +32,7 @@ body {
 /* Navigation */
 nav {
   padding: 20px 40px;
-  background-color: #00a2c6;
+  background-color: #147b95;
 }
 
 nav ul li {
@@ -72,12 +72,12 @@ main article {
 
 main article h2 {
   margin-bottom: 16px;
-  color: #00a2c6;
+  color: #147b95;
 }
 
 main article h3 {
   margin-bottom: 16px;
-  color: #00c8eb;
+  color: #147b95;
 }
 
 main article p {
@@ -106,7 +106,7 @@ aside {
 aside h2,
 aside h3 {
   margin: 20px 0;
-  color: #00a2c6;
+  color: #147b95;
 }
 
 aside p {
@@ -130,7 +130,7 @@ aside table td {
 
 footer {
   text-align: center;
-  background-color: #00a2c6;
+  background-image: linear-gradient(90deg, #000000, #138f90);
   color: white;
   padding: 20px;
   font-weight: bold;
